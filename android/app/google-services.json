@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "542088148319",
+    "firebase_url": "https://poetrypages-af6e2.firebaseio.com",
+    "project_id": "poetrypages-af6e2",
+    "storage_bucket": "poetrypages-af6e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542088148319:android:96df2be68e9c96c4",
+        "android_client_info": {
+          "package_name": "com.example.poetrypages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542088148319-lcag9qclcapvua4qutl80mfqrbuvmbuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poetrypages",
+            "certificate_hash": "35d9d9cfc3cbaf396817be48c5ee724414ca5df3"
+          }
+        },
+        {
+          "client_id": "542088148319-pgqabvirm40ed01lkv4gftuv40oplbuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgE5tr45musOBXIu-BTmW7Npi9NqXLnsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542088148319-pgqabvirm40ed01lkv4gftuv40oplbuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542088148319:android:7387bab2771544ee",
+        "android_client_info": {
+          "package_name": "com.rageapps.poetry_pages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542088148319-pgqabvirm40ed01lkv4gftuv40oplbuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgE5tr45musOBXIu-BTmW7Npi9NqXLnsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542088148319-pgqabvirm40ed01lkv4gftuv40oplbuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
